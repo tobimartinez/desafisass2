@@ -1,0 +1,6 @@
+@mixin propiedadesPrincipales ($bg-color,$colorLetra,$ancho,$altura) {
+    background-color:$bg-color ;
+    color: $colorLetra;
+    width: $ancho;
+    height: $altura;
+}

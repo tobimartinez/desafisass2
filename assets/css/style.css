@@ -1,0 +1,150 @@
+.navegador {
+  background-color: blue;
+}
+
+.navegador .listaNav {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.navegador .listaNav li {
+  padding: 30px;
+  font-size: 18px;
+}
+
+.contenidoPrincipal {
+  background-color: black;
+  height: 500px;
+  color: white;
+}
+
+.contenidoPublicidad {
+  height: 400px;
+  border-top: 100px solid white;
+}
+
+.contenidoPublicidad .cuadradoPedido {
+  background-color: black;
+  width: 600px;
+  margin-left: 200px;
+  height: 180px;
+  color: white;
+  border: 5px solid red;
+}
+
+.contenedorVenta {
+  height: 450px;
+}
+
+.contenedorVenta .ventaDemo {
+  background-color: aqua;
+}
+
+.contenedorVenta .ventaDemo2 {
+  background-color: black;
+  color: white;
+}
+
+.botonCompra, .compra2 {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid white;
+  height: 30px;
+  width: 85px;
+}
+
+.compra2 {
+  background-color: white;
+  color: red;
+  border: 2px solid black;
+}
+
+.pie {
+  background-color: black;
+  color: white;
+}
+
+.pie ul {
+  list-style: none;
+}
+
+.pie ul li {
+  text-decoration: none;
+  padding: 0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.imgNav {
+  height: 100px;
+  width: 100px;
+  z-index: 20;
+}
+
+.productosPizza {
+  background-color: aqua;
+  height: 400px;
+}
+
+.productosPizza h1 {
+  font-size: 50px;
+}
+
+.productosPizza p {
+  font-size: 20px;
+}
+
+.productosPizza h2 {
+  font-size: 35px;
+}
+
+.containerTarjetas .tarjetas {
+  background-color: #5c4646;
+  color: black;
+  border: solid 2px white;
+}
+
+.contenidoEmpanadas {
+  background-color: red;
+  height: 300px;
+}
+
+.contenidoEmpanadas h2 {
+  font-size: 40px;
+}
+
+.contenidoEmpanadas p {
+  font-size: 20px;
+}
+
+.contenidoEmpanadas h4 {
+  font-size: 30px;
+}
+
+.containerEmp .tarjetasEmp {
+  background-color: aqua;
+  border: 3px solid black;
+}
+
+.nosotrosTexto {
+  height: 700px;
+}
+
+.nosotrosInfo2 {
+  background-color: red;
+  height: 400px;
+}
+
+.nosotrosInfo2 .nosotrosSubtitulo {
+  color: black;
+}
+
+.nosotrosInfo2 .imagenNos {
+  border-radius: 50%;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,12 @@
+.botonCompra{
+    background-color: map-get($boton , fondoColor);
+    color: map-get($boton , color);
+    border-radius: map-get($boton , bordesCurva );
+    border: map-get($boton, bordes );
+    height: map-get($boton , altura );
+    width: map-get($boton , largo );
+}
+.compra2{
+    @extend .botonCompra;
+    @include propiedadesPrincipales(black,white , 85px,30px )
+}

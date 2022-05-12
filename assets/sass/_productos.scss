@@ -1,0 +1,39 @@
+.productosPizza{
+    background-color: aqua;
+    height: 400px;
+    h1{
+        font-size: 50px;
+    }
+    p{
+        font-size: 20px;
+    }
+    h2{
+        font-size: 35px;
+    }
+}
+.containerTarjetas{
+    .tarjetas{
+        background-color: rgb(92, 70, 70);
+        color: black;
+        border: solid 2px white;
+    }    
+}
+.contenidoEmpanadas{
+    background-color: #F2E4D8;
+    height: 300px;
+    h2{
+        font-size: 40px;
+    }
+    p{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 30px;
+    }
+}
+.containerEmp{
+    .tarjetasEmp{
+        background-color: #733C1D;
+        border: 3px solid #594A3E;
+    }
+}

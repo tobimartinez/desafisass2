@@ -1,0 +1,27 @@
+.contenidoPrincipal{
+    background-color: #BFA893;
+    height: 500px;
+    color: white;
+}
+.contenidoPublicidad{
+    height: 400px;
+    border-top: 100px solid white;
+    .cuadradoPedido{
+        background-color: black;
+        width: 600px;
+        margin-left: 200px;
+        height: 180px;
+        color: white;
+        border: 5px solid red;
+    }
+}
+.contenedorVenta{
+    height: 450px;
+    .ventaDemo{
+        background-color: #8C7E72;
+    }
+    .ventaDemo2{
+        background-color: #594A3E;
+        color: white;
+    }
+}
