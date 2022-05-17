@@ -1,0 +1,8 @@
+# desafisass2
+En el archivo index.html sume el SEO con las siguientes caracteristicas: Descripcion: Disfruta de uno de las mejores pizzas de Zona oeste, conoce nuestra historia y acompaña nuestro progreso de los proximos años. Palabras clave:Mediante la etiqueta meta name keywords, agregue las palabras claves que acompañaran a todas las paginas de mi sitio:"pedido,historia,promocion,Productos,pizza,empanadas,conocenos,franquicias,nosotros,comunicarse,contactanos¨
+
+En el archivo nosotros.html sume el SEO con las siguientes Caracteristicas: Descripcion:Entra y conoce sobre nuestra historia en este rubro, ya son mas de 20 años de experiencia. Palabras clave:Mediante la etiqueta meta name keywords, agregue las palabras claves que acompañaran a todas las paginas de mi sitio:"pedido,historia,promocion,Productos,pizza,empanadas,conocenos,franquicias,nosotros,comunicarse,contactanos¨
+
+En el archivo contactanos.html sume el SEO con las siguientes caracteristicas: Descripcion:Dejanos tu mensaje para conocerte y para poder ver como es la experiencia del usuario pidiendo en Metropizza Macarena II.Palabras clave:Mediante la etiqueta meta name keywords, agregue las palabras claves que acompañaran a todas las paginas de mi sitio:"pedido,historia,promocion,Productos,pizza,empanadas,conocenos,franquicias,nosotros,comunicarse,contactanos¨
+
+En el archivo productos.html sume el SEO con las  siguientes caracteristicas: Descripcion:Revisa todos nuestros productos que tenemos para vender, mas de 30 sabores de pizzas diferentes, y mas de 12 gustos de empanadas para que disfrutes. Palabras claves: Mediante la etiqueta meta name keywords:Productos,pizza,empanadas.
